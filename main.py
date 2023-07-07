@@ -3,6 +3,7 @@ from gestion_empleado import *
 from gestion_pago import *
 
 def main():
+  print("Arreglo arreglado")
   nomina = Nomina([], 0, 10000)
   while True:
     print("Bienvenidos")
