@@ -38,7 +38,7 @@ def main():
       print("\n")
     else:
       print("\n")
-      print("Gracias por su vistia")
+      print("Hasta Pronto")
       break
 
 
