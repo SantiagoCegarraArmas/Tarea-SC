@@ -4,6 +4,7 @@ from gestion_pago import *
 
 def main():
   print("Arreglo arreglado")
+  print("Version final")
   nomina = Nomina([], 0, 10000)
   while True:
     print("Bienvenidos")
